@@ -20,6 +20,7 @@ elems.forEach(function (e) {
     fixed_img.style.backgroundImage = `url(${image})`;
   });
 });
+scroll.destroy();
 
 /****************swiper js *********** */
 
